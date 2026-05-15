@@ -1,4 +1,5 @@
 {
+  "installCommand": "npm ci --no-audit --no-fund --legacy-peer-deps",
   "crons": [
     {
       "path": "/api/cron/telegram",
